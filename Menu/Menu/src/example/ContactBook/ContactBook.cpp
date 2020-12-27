@@ -1,8 +1,12 @@
-#include "ContactBook.h"
-#include <algorithm>
-#include <iostream>
+// Copyright (c) 2020 DGB. All rights reserved.
+
 #include <iomanip>
 #include <conio.h>
+#include <iostream>
+#include <algorithm>
+
+#include "ContactBook.h"
+
 
 namespace cb
 {

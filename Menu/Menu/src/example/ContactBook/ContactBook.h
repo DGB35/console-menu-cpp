@@ -1,4 +1,5 @@
-#pragma once
+// Copyright (c) 2020 DGB. All rights reserved.
+
 #include <vector>
 #include <string>
 #include <fstream>
@@ -7,6 +8,7 @@
 using age_t = unsigned int;
 using contact_action_t = std::function<void(size_t)>;
 enum class Keys { ARROW = 224, ARROW_UP = 80, ARROW_DOWN = 72, ENTER = 13, ESCAPE = 27, BACKSPACE = 8 };
+
 
 namespace cb
 {
