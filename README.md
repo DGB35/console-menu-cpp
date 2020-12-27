@@ -1,1 +1,2 @@
-# console-menu-cpp
+# Console Menu In C++
+Simple and beautiful console menu
